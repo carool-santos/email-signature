@@ -2,7 +2,7 @@
 
 - Acesse o terminal do seu computador e digite " git clone  https://github.com/carool-santos/email-signature.git "
 - cd e-mail-signature
-- 
+
 
 
 -------------------------------------------
@@ -38,4 +38,23 @@ Como utilizar no Gmail?
 
 
 8 - Agora role até o final e clique em "Salvar alterações". Agora sua assinatura está ativa, toda vez que enviar algum email
+
+![1](https://user-images.githubusercontent.com/87334190/158904238-e7af7299-8235-43ba-ab2a-57191d369e51.png)
+
+-----------------------------------------------------------------------------------------------------------------
+
+![2](https://user-images.githubusercontent.com/87334190/158904235-ca6c40e5-0b59-4860-b0eb-f793b0944d59.png)
+
+-----------------------------------------------------------------------------------------------------------------
+
+![3](https://user-images.githubusercontent.com/87334190/158904232-d3a52486-adbf-4ea7-b84b-de5016521d0a.png)
+
+-----------------------------------------------------------------------------------------------------------------
+
+![4](https://user-images.githubusercontent.com/87334190/158904233-149c5a0e-88fc-468f-82be-3ccffb6f6de2.png)
+
+-----------------------------------------------------------------------------------------------------------------
+
+![5](https://user-images.githubusercontent.com/87334190/158904229-ac94affd-f929-41cc-8ccc-102855530122.png)
+
 
