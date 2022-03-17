@@ -1,9 +1,15 @@
 * ASSINATURA DE E-MAIL*
 
-Como utilizar no Gmail? 
+- Acesse o terminal do seu computador e digite " git clone  https://github.com/carool-santos/email-signature.git "
+- cd e-mail-signature
+- 
 
 
 -------------------------------------------
+
+Como utilizar no Gmail? 
+
+
 
 
 1 - Acesse a sua conta do gmail com o email e senha
