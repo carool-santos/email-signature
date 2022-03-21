@@ -1,7 +1,8 @@
 * ASSINATURA DE E-MAIL*
 
-- Acesse o terminal do seu computador e digite " git clone  https://github.com/carool-santos/email-signature.git "
-- cd e-mail-signature
+- Acesse o terminal do seu computador e digite : ` git clone  https://github.com/carool-santos/email-signature.git `
+- e logo em seguida ` cd e-mail-signature` para entrar dentro da pasta do projeto
+
 
 
 
@@ -33,8 +34,10 @@ Como utilizar no Gmail?
 6 - Volte nas configurações de assinatura do gmail, e onde está um espaço em branco como se fosse para desenhar, clique sobre e aperte as teclas : CTRL + V (para colar)
 
 
+7 - O cargo da assinatura de exemplo "Backend developer", é editável  e pode ser colocado o cargo que te representa. Basta clicar em cima do cargo para digitar
 
-7 - Logo abaixo tem uma configuração escrita "Padrões de assinatura" com as opções "para uso em novos e-mails" e "para uso em respostas/encaminhamentos", escolha na qual  tem o mesmo nome da assinatura que deu anteriormente
+
+8 - Logo abaixo tem uma configuração escrita "Padrões de assinatura" com as opções "para uso em novos e-mails" e "para uso em respostas/encaminhamentos", escolha na qual  tem o mesmo nome da assinatura que deu anteriormente
 
 
 8 - Agora role até o final e clique em "Salvar alterações". Agora sua assinatura está ativa, toda vez que enviar algum email
